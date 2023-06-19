@@ -10,4 +10,4 @@
 	- 创建新笔记 - 增
 	- 修改笔记 - 改
 	- 删除笔记 - 删
-参考视频：https://www.bilibili.com/video/BV1vK4y1o7jH/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click
+- 参考视频：https://www.bilibili.com/video/BV1vK4y1o7jH/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click
